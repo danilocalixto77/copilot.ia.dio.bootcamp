@@ -27,16 +27,23 @@ Um pouco da história da Inteligência artificial
 
 Certifique seu conhecimento
 
+---
+
 ###### Curso 3: Aplicações e Impacto da IA no Mundo Real
 
 Aplicações e Impacto da IA no Mundo Real
-
 
 IA no seu dia a dia
 
 Os modelos de algoritmos de IA
 
+* Algoritimo de Aprendizado Supervisionado
+* Algoritimo de Aprendizado não Supervisionado
+* Algoritimo de Aprendizado por Reforço
+
+
 Visão computacional
+
 
 Linguagem Natural
 
@@ -44,6 +51,16 @@ Robótica
 
 Certifique seu conhecimento
 
+---
+###### Curso 4: Versionamento de Código com Git e GitHub
+---
+###### Curso 5: Desafios de Projetos: Crie Um Portfólio Vencedor
+---
+###### Curso 6: Contribuindo em um Projeto Open Source no GitHub
+---
+###### Curso 7: Fundamentos de Inteligência Artifical (IA) e GitHub Copilot
+
+    Conclusão do Módulo 1.
 
 ---
 ---
