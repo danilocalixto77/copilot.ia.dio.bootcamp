@@ -86,10 +86,12 @@ IA no Cotidiano
 
 - IA no Cotidiano - Contextualização: Transcrições
 
+- Cases DIO e Algumas IAs Interessantes
+
+- Cases DIO e Algumas IAs Interessantes: Transcrições
+
 ---
-Cases DIO e Algumas IAs Interessantes
-09:06
-Cases DIO e Algumas IAs Interessantes: Transcrições
+
 Chatbots na Prática (ChatGPT, Bing e Bard)
 16:09
 Chatbots na Prática (ChatGPT, Bing e Bard): Transcrições
