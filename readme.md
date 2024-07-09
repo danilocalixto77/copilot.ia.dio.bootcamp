@@ -69,13 +69,24 @@ Certifique seu conhecimento
 ###### Curso 1: Aplicações Práticas da Inteligência Artificial
 
 Introdução e Apresentação
-02:39
-Introdução e Apresentação: Transcrições
+
+- Introdução e Apresentação
+
+- Introdução e Apresentação: Transcrições
+
 Revolução das IAs Generativas
-Revolução das IAs Generativas: Transcrições
-IA no Cotidiano - Contextualização
-04:39
-IA no Cotidiano - Contextualização: Transcrições
+
+- Revolução das IAs Generativas
+
+- Revolução das IAs Generativas: Transcrições
+
+IA no Cotidiano
+
+- IA no Cotidiano - Contextualização
+
+- IA no Cotidiano - Contextualização: Transcrições
+
+---
 Cases DIO e Algumas IAs Interessantes
 09:06
 Cases DIO e Algumas IAs Interessantes: Transcrições
