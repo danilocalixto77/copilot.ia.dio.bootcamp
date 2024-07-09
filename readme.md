@@ -1,7 +1,7 @@
 # Bootcampo Microsoft - Microsoft Copilot AI
 ###### DIO.
 
-### MODULO 01: Fundamentos de Inteligência Artifical (IA) e GitHub Copilot
+## MODULO 01: Fundamentos de Inteligência Artifical (IA) e GitHub Copilot
 ---
 ###### Curso 1: Bem-Vindo à Experiência Microsoft IA Copilot
 
@@ -64,12 +64,49 @@ Certifique seu conhecimento
 
 ---
 ---
-### MODULO 02: Desafios e Aplicações Práticas das IAs Generativas
+## MODULO 02: Desafios e Aplicações Práticas das IAs Generativas
+---
+###### Curso 1: Aplicações Práticas da Inteligência Artificial
+
+Introdução e Apresentação
+02:39
+Introdução e Apresentação: Transcrições
+Revolução das IAs Generativas
+Revolução das IAs Generativas: Transcrições
+IA no Cotidiano - Contextualização
+04:39
+IA no Cotidiano - Contextualização: Transcrições
+Cases DIO e Algumas IAs Interessantes
+09:06
+Cases DIO e Algumas IAs Interessantes: Transcrições
+Chatbots na Prática (ChatGPT, Bing e Bard)
+16:09
+Chatbots na Prática (ChatGPT, Bing e Bard): Transcrições
+Bônus: Conhecendo a API da OpenAI
+21:03
+Bônus: Conhecendo a API da OpenAI: Transcrições
+Geração de Imagens (Bing, Leonardo AI e Midjourney)
+16:00
+Geração de Imagens (Bing, Leonardo AI e Midjourney): Transcrições
+Voz e Avatares Virtuais (ElevenLabs, D-ID e HeyGen)
+28:41
+Voz e Avatares Virtuais (ElevenLabs, D-ID e HeyGen): Transcrições
+IA na Indústria
+03:45
+IA na Indústria: Transcrições
+Conclusão e Perspectivas Futuras
+03:32
+Conclusão e Perspectivas Futuras: Transcrições
+Materiais Complementares: Aplicações Práticas da Inteligência Artificial
+Certifique seu conhecimento
+
+
+
+
+---
+## MODULO 03: Pilars Teóricos Que Sustentam as IAs Generativas
 ---
 ---
-### MODULO 03: Pilars Teóricos Que Sustentam as IAs Generativas
----
----
-### MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
+## MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
 ---
 ---
