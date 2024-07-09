@@ -90,11 +90,12 @@ IA no Cotidiano
 
 - Cases DIO e Algumas IAs Interessantes: Transcrições
 
+- Chatbots na Prática (ChatGPT, Bing e Bard)
+
+- Chatbots na Prática (ChatGPT, Bing e Bard): Transcrições
+
 ---
 
-Chatbots na Prática (ChatGPT, Bing e Bard)
-16:09
-Chatbots na Prática (ChatGPT, Bing e Bard): Transcrições
 Bônus: Conhecendo a API da OpenAI
 21:03
 Bônus: Conhecendo a API da OpenAI: Transcrições
