@@ -96,6 +96,13 @@ IA no Cotidiano
 
 - Bônus: Conhecendo a API da OpenAI
 
+    Link da documentação da OpenAI:
+
+    https://platform.openai.com/docs/overview
+
+    Uma série de endponts estão disponíveis no postman. Que através de um fork podem ser copiados e utilizados.
+
+
 - Bônus: Conhecendo a API da OpenAI: Transcrições
 
 
