@@ -94,13 +94,15 @@ IA no Cotidiano
 
 - Chatbots na Prática (ChatGPT, Bing e Bard): Transcrições
 
+- Bônus: Conhecendo a API da OpenAI
+
+- Bônus: Conhecendo a API da OpenAI: Transcrições
+
+
 ---
 
-Bônus: Conhecendo a API da OpenAI
-21:03
-Bônus: Conhecendo a API da OpenAI: Transcrições
 Geração de Imagens (Bing, Leonardo AI e Midjourney)
-16:00
+
 Geração de Imagens (Bing, Leonardo AI e Midjourney): Transcrições
 Voz e Avatares Virtuais (ElevenLabs, D-ID e HeyGen)
 28:41
