@@ -102,6 +102,8 @@ IA no Cotidiano
 
     Uma série de endponts estão disponíveis no postman. Que através de um fork podem ser copiados e utilizados.
 
+    Lembrando que a utilização não é gratís, há um custo que será necessário persquisar para saber exatamente o custo.
+
 
 - Bônus: Conhecendo a API da OpenAI: Transcrições
 
