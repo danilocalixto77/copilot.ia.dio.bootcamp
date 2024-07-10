@@ -100,7 +100,7 @@ IA no Cotidiano
 
     https://platform.openai.com/docs/overview
 
-    Uma série de endponts estão disponíveis no postman. Que através de um fork podem ser copiados e utilizados.
+    O postman disponibiliza todos os endpoints da OpenAI. Que através de um fork podem ser copiados e utilizados.
 
     Lembrando que a utilização não é gratís, há um custo que será necessário persquisar para saber exatamente o custo.
 
