@@ -107,28 +107,46 @@ IA no Cotidiano
 
 - Bônus: Conhecendo a API da OpenAI: Transcrições
 
+- Geração de Imagens (Bing, Leonardo AI e Midjourney)
+
+    Microsoft Bing Image Creator (Edge)
+
+    Leonardo AI
+
+    Midjorney(Discord): Créditos limitados por período free.
+    
+- Geração de Imagens (Bing, Leonardo AI e Midjourney): Transcrições
+
+- Voz e Avatares Virtuais (ElevenLabs, D-ID e HeyGen)
+
+- Voz e Avatares Virtuais (ElevenLabs, D-ID e HeyGen): Transcrições
 
 ---
 
-Geração de Imagens (Bing, Leonardo AI e Midjourney)
-
-Geração de Imagens (Bing, Leonardo AI e Midjourney): Transcrições
-Voz e Avatares Virtuais (ElevenLabs, D-ID e HeyGen)
-28:41
-Voz e Avatares Virtuais (ElevenLabs, D-ID e HeyGen): Transcrições
 IA na Indústria
-03:45
-IA na Indústria: Transcrições
-Conclusão e Perspectivas Futuras
-03:32
-Conclusão e Perspectivas Futuras: Transcrições
-Materiais Complementares: Aplicações Práticas da Inteligência Artificial
-Certifique seu conhecimento
 
+- IA na Indústria
 
-
+- IA na Indústria: Transcrições
 
 ---
+
+Conclusão e Perspectivas Futuras
+
+- Conclusão e Perspectivas Futuras
+
+- Conclusão e Perspectivas Futuras: Transcrições
+
+Materiais Complementares: Aplicações Práticas da Inteligência Artificial
+
+- Materiais Complementares: Aplicações Práticas da Inteligência Artificial
+
+- Certifique seu conhecimento
+
+---
+---
+---
+
 ## MODULO 03: Pilars Teóricos Que Sustentam as IAs Generativas
 ---
 ---
