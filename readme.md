@@ -127,6 +127,14 @@ IA na Indústria
 
 - IA na Indústria
 
+    Robótica
+
+    Saúde
+
+    Financeiro
+
+    Marketing
+
 - IA na Indústria: Transcrições
 
 ---
