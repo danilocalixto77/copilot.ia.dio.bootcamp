@@ -156,7 +156,38 @@ Materiais Complementares: Aplicações Práticas da Inteligência Artificial
 ---
 
 ## MODULO 03: Pilars Teóricos Que Sustentam as IAs Generativas
+
+###### Curso 1: Fundamentos da IA Generativa
 ---
+
+Conceitos básicos de IA Generativa
+
+- Conceitos básicos de IA Generativa - Agenda do curso
+
+- O que é IA Generativa
+
+
+
+Modelos de linguagem grandes
+
+Modelos de linguagem grandes: Transformador parte 1
+
+Modelos de linguagem grandes: Transformador parte2
+
+Modelos de linguagem grande: Tokenização
+
+Modelos de linguagem grandes: Inserções
+
+Modelos de linguagem grandes: Atenção
+
+Conceitos básicos de IA Generativas – Copilotos
+
+Conceitos básicos de IA Generativa - Engenharia de prompts
+
+Material de Apoio e Links úteis
+
+Certifique seu conhecimento
+
 ---
 ## MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
 ---
