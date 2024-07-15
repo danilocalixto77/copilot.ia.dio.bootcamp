@@ -170,11 +170,11 @@ Conceitos básicos de IA Generativa
 
 - Modelos de linguagem grandes: Transformador parte 1
 
-Modelos de linguagem grandes: Transformador parte2
+- Modelos de linguagem grandes: Transformador parte2
 
-Modelos de linguagem grande: Tokenização
+- Modelos de linguagem grande: Tokenização
 
-Modelos de linguagem grandes: Inserções
+- Modelos de linguagem grandes: Inserções
 
 Modelos de linguagem grandes: Atenção
 
