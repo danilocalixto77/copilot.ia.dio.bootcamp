@@ -166,11 +166,9 @@ Conceitos básicos de IA Generativa
 
 - O que é IA Generativa
 
+- Modelos de linguagem grandes
 
-
-Modelos de linguagem grandes
-
-Modelos de linguagem grandes: Transformador parte 1
+- Modelos de linguagem grandes: Transformador parte 1
 
 Modelos de linguagem grandes: Transformador parte2
 
