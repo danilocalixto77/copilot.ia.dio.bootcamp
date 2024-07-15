@@ -176,7 +176,7 @@ Conceitos básicos de IA Generativa
 
 - Modelos de linguagem grandes: Inserções
 
-Modelos de linguagem grandes: Atenção
+- Modelos de linguagem grandes: Atenção
 
 Conceitos básicos de IA Generativas – Copilotos
 
