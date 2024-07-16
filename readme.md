@@ -178,7 +178,8 @@ Conceitos básicos de IA Generativa
 
 - Modelos de linguagem grandes: Atenção
 
-Conceitos básicos de IA Generativas – Copilotos
+- Conceitos básicos de IA Generativas – Copilotos
+
 
 Conceitos básicos de IA Generativa - Engenharia de prompts
 
