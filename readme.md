@@ -181,11 +181,11 @@ Conceitos básicos de IA Generativa
 - Conceitos básicos de IA Generativas – Copilotos
 
 
-Conceitos básicos de IA Generativa - Engenharia de prompts
+- Conceitos básicos de IA Generativa - Engenharia de prompts
 
-Material de Apoio e Links úteis
+- Material de Apoio e Links úteis
 
-Certifique seu conhecimento
+- Certifique seu conhecimento
 
 ---
 ## MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
