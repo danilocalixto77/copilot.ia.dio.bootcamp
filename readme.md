@@ -188,6 +188,11 @@ Conceitos básicos de IA Generativa
 - Certifique seu conhecimento
 
 ---
+
+###### Curso 2: Algoritmos e Aprendizado de Máquina
+---
+
+
 ## MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
 ---
 ---
