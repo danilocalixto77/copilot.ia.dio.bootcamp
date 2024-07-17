@@ -192,7 +192,37 @@ Conceitos básicos de IA Generativa
 ###### Curso 2: Algoritmos e Aprendizado de Máquina
 ---
 
+Como as máquinas aprendem - Parte 1
 
+- O que é Inteligência Artificial?
+
+A Importância da Inteligência Artificial no Mundo Moderno
+18:25
+Aplicações de Inteligência Artificial Restrita em Sistemas Reais
+14:09
+Questões Éticas na Inteligência Artificial
+06:18
+Sistemas de Inteligência Artificial para a Indústria
+09:24
+
+Como as máquinas aprendem - Parte 2
+
+Inteligência Artificial x Machine Learning
+11:54
+Características entre Machine Learning e Inteligência Artificial
+09:38
+
+Materiais de Apoio e Questionário
+
+Materiais de Apoio
+Certifique seu conhecimento
+
+
+
+
+
+
+---
 ## MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
 ---
 ---
