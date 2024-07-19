@@ -198,10 +198,12 @@ Como as máquinas aprendem - Parte 1
 
 - A Importância da Inteligência Artificial no Mundo Moderno
 
+- Aplicações de Inteligência Artificial Restrita em Sistemas Reais
 
 
-Aplicações de Inteligência Artificial Restrita em Sistemas Reais
-14:09
+
+
+
 Questões Éticas na Inteligência Artificial
 06:18
 Sistemas de Inteligência Artificial para a Indústria
