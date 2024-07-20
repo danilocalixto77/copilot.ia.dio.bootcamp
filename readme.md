@@ -204,10 +204,13 @@ Como as máquinas aprendem - Parte 1
 
 - Sistemas de Inteligência Artificial para a Indústria
 
-
 Como as máquinas aprendem - Parte 2
 
-Inteligência Artificial x Machine Learning
+- Inteligência Artificial x Machine Learning
+
+
+
+
 11:54
 Características entre Machine Learning e Inteligência Artificial
 09:38
