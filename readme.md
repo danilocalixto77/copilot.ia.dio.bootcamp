@@ -202,9 +202,8 @@ Como as máquinas aprendem - Parte 1
 
 - Questões Éticas na Inteligência Artificial
 
+- Sistemas de Inteligência Artificial para a Indústria
 
-Sistemas de Inteligência Artificial para a Indústria
-09:24
 
 Como as máquinas aprendem - Parte 2
 
