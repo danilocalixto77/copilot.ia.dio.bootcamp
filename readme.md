@@ -220,9 +220,23 @@ Materiais de Apoio e Questionário
 
 - Certifique seu conhecimento
 
+---
+###### Curso 3: Processamento e Linguagem Natural
+---
 
+Como os Computadores 'Entendem' o Idioma Humano
 
+Análise de Linguagem Natural por meio de PLN
+09:43
+Deep Learning para PLN
+12:14
+Exemplo Prático de PLN
+03:40
 
+Materiais de Apoio e Questionário
+
+Materiais de Apoio
+Certifique seu conhecimento
 
 
 ---
