@@ -200,12 +200,9 @@ Como as máquinas aprendem - Parte 1
 
 - Aplicações de Inteligência Artificial Restrita em Sistemas Reais
 
+- Questões Éticas na Inteligência Artificial
 
 
-
-
-Questões Éticas na Inteligência Artificial
-06:18
 Sistemas de Inteligência Artificial para a Indústria
 09:24
 
