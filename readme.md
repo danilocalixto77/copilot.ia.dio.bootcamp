@@ -208,17 +208,17 @@ Como as máquinas aprendem - Parte 2
 
 - Inteligência Artificial x Machine Learning
 
+- Características entre Machine Learning e Inteligência Artificial
 
-
-
-11:54
-Características entre Machine Learning e Inteligência Artificial
-09:38
+    IA > ML > DP
 
 Materiais de Apoio e Questionário
 
-Materiais de Apoio
-Certifique seu conhecimento
+- Materiais de Apoio
+
+    Arquivos ppt disponíveis.
+
+- Certifique seu conhecimento
 
 
 
