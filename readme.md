@@ -239,6 +239,29 @@ Materiais de Apoio e Questionário
 - Certifique seu conhecimento
 
 ---
+###### Curso 4: Visão Computacional
+---
+
+Como os Computadores 'Enxergam' Imagens
+
+- Introdução à visão computacional
+
+- Introdução ao rastreamento de objetos
+
+
+Redes para rastreamento de objetos
+15:14
+Rede YOLO para Rastreamento
+13:23
+Redes de rastreamento na prática
+10:47
+
+Materiais de Apioio e Questionário
+
+Materiais de Apoio
+Certifique seu conhecimento
+
+---
 ## MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
 ---
 ---
