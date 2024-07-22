@@ -248,9 +248,9 @@ Como os Computadores 'Enxergam' Imagens
 
 - Introdução ao rastreamento de objetos
 
+- Redes para rastreamento de objetos
 
-Redes para rastreamento de objetos
-15:14
+
 Rede YOLO para Rastreamento
 13:23
 Redes de rastreamento na prática
