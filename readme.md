@@ -252,13 +252,11 @@ Como os Computadores 'Enxergam' Imagens
 
 - Rede YOLO para Rastreamento
 
-
-Redes de rastreamento na prática
-10:47
+- Redes de rastreamento na prática
 
 Materiais de Apioio e Questionário
 
-Materiais de Apoio
+- Materiais de Apoio
 Certifique seu conhecimento
 
 ---
