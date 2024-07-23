@@ -257,7 +257,32 @@ Como os Computadores 'Enxergam' Imagens
 Materiais de Apioio e Questionário
 
 - Materiais de Apoio
+
+- Certifique seu conhecimento
+
+---
+###### Curso 5: O que são IAs Generativas
+---
+
+O que são IAs Generativas
+
+- Introdução as redes generativas
+
+
+Modelos Autoregressivos
+09:54
+Algoritmos de treinamento para redes generativas
+04:35
+Redes adversárias e generativas
+11:28
+Materiais de Apoio
 Certifique seu conhecimento
+
+
+
+
+
+
 
 ---
 ## MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
