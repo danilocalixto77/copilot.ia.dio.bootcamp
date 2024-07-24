@@ -270,9 +270,9 @@ O que são IAs Generativas
 
 - Modelos Autoregressivos
 
+- Algoritmos de treinamento para redes generativas
 
 
-Algoritmos de treinamento para redes generativas
 04:35
 Redes adversárias e generativas
 11:28
