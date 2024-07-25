@@ -272,12 +272,13 @@ O que são IAs Generativas
 
 - Algoritmos de treinamento para redes generativas
 
+- Redes adversárias e generativas
 
-04:35
-Redes adversárias e generativas
-11:28
+
 Materiais de Apoio
 Certifique seu conhecimento
+
+
 
 
 
