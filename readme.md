@@ -274,12 +274,11 @@ O que são IAs Generativas
 
 - Redes adversárias e generativas
 
+Materiais de Apoio e Questionário
 
-Materiais de Apoio
-Certifique seu conhecimento
+- Materiais de Apoio
 
-
-
+- Certifique seu conhecimento
 
 
 
