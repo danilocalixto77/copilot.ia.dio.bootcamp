@@ -280,11 +280,6 @@ Materiais de Apoio e Questionário
 
 - Certifique seu conhecimento
 
-
-
-
-
-
 ---
 ## MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
 ---
