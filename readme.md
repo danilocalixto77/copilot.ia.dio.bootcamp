@@ -63,7 +63,6 @@ Certifique seu conhecimento
     Conclusão do Módulo 1.
 
 ---
----
 ## MODULO 02: Desafios e Aplicações Práticas das IAs Generativas
 ---
 ###### Curso 1: Aplicações Práticas da Inteligência Artificial
@@ -152,11 +151,8 @@ Materiais Complementares: Aplicações Práticas da Inteligência Artificial
 - Certifique seu conhecimento
 
 ---
----
----
-
 ## MODULO 03: Pilars Teóricos Que Sustentam as IAs Generativas
-
+---
 ###### Curso 1: Fundamentos da IA Generativa
 ---
 
@@ -179,7 +175,6 @@ Conceitos básicos de IA Generativa
 - Modelos de linguagem grandes: Atenção
 
 - Conceitos básicos de IA Generativas – Copilotos
-
 
 - Conceitos básicos de IA Generativa - Engenharia de prompts
 
@@ -283,4 +278,11 @@ Materiais de Apoio e Questionário
 ---
 ## MODULO 04: Aumente Sua Produtividade com IA e Microsoft Copilot
 ---
+
+###### Mentoria 1: Microsoft Copilot Studio: Construa o Seu Próprio Copilot Customizado
+
+###### Desafio de Projeto 2: Explorando os Recursos de IA Generativa com Copilot e OpenAI
+
+###### Curso 3: Avalie este Bootcamp
+
 ---
